@@ -1,24 +1,64 @@
 {
-    "products": [
+    "Products": [
         {
-            "ProductID": 228411,
-            "product_image": "https://easydeal-data.s3.eu-west-1.amazonaws.com/product_images/371b48f78b5d762b578d9046768b2254b86f3ff5"
+            "productID": 217157,
+            "title": "Plasmasytytin KAARI TUIKKU - FROSTED hopea",
+            "category_name": "Lighters",
+            "merchant_price": 10,
+            "distributor_quantity": 517,
+            "warehouse_quantity": 517,
+            "merchant_categoryID": "\"121",
+            "long_description": "KAARI TUIKKU on jokaiseen kotiin, mökkiin, veneeseen ja asuntovaunuun soveltuva pitkävartinen yleissytytin. Uudelleenladattava, liekitön ja sähkökäyttöinen KAARI TUIKKU tuottaa tehokkaan 1100-asteisen plasmakaaren, joka sytyttää kynttilät, takkapuut tai grillihiilet kädenkäänteessä. \n\nKAARI TUIKKU toimii heti myös sateessa, myrskytuulessa ja pakkasessa. Täysmetallinen runko ja frosted efektimaalaus tuo luksusta sytyttämiseen.\n\nKAARI TUIKKU on suomalainen designtuote. Design from Finland.\n\nKAARI TUIKKU -plasmasytytin toimii muiden sytyttimien tapaan, mutta ilman haitallisia kaasuja tai kemikaaleja. \n\nKAARI TUIKKU sytyttää helpommin, tehokkaammin, turvallisemmin ja ympäristöystävällisemmin. \n\nPlasmasytytin korvaa perinteiset ponnekaasuihin tai fossiilisiin polttoaineisiin perustuvat sytyttimet vihreämmällä vaihtoehdolla. Plasmasytyttimellä voi sytyttää jopa 100 kertaa yhdellä akunlatauksella, jonka jälkeen sen voi ladata tavallisella usb-laturilla.\n\nTakuu: 12 kuukautta\nSytyttimen koko: 200 * 26 * 16.9 mm\n\nPakkauksen sisältö:\n1 kpl KAARI TUIKKU -plasmasytytin\n1 kpl Mikro-USB-kaapeli\n1 kpl Käyttöohje: Suomi ja Englanti",
+            "product_image": "https://easydeal-data.s3.eu-west-1.amazonaws.com/product_images/908d9c701d2e27c31e172a96cf90352df9c7dfe8",
+            "additional_image_1": "https://easydeal-data.s3.eu-west-1.amazonaws.com/product_images/7833c4b5fb003fb94f95a69ca9306b5d9d85cdcc",
+            "additional_image_2": "https://easydeal-data.s3.eu-west-1.amazonaws.com/product_images/c5635247fd391cdb3fc230289e369e94ef186977",
+            "additional_image_3": "",
+            "additional_image_4": "",
+            "additional_image_5": "",
+            "additional_image_6": "",
+            "additional_image_7": "",
+            "additional_image_8": "",
+            "distributorID": 104
         },
         {
-            "ProductID": 228412,
-            "product_image": "https://easydeal-data.s3.eu-west-1.amazonaws.com/product_images/371b48f78b5d762b578d9046768b2254b86f3ff5"
+            "productID": 224106,
+            "title": "Tee Jays Miesten Crossover kevyttoppatakki, oliivi/musta M",
+            "category_name": "Active Jackets",
+            "merchant_price": 10,
+            "distributor_quantity": 1,
+            "warehouse_quantity": 0,
+            "merchant_categoryID": "\"1165",
+            "long_description": "Tee Jays Miesten Crossover kevyttoppatakki\n\nTyylikäs kevyesti topattu vapaa-ajan takki miehille. Hieman muotoiltu leikkaus, johon yhdistyy vettä hylkivä pintamateriaali ja säädettävä helma.\n\n.• Materiaali: 100% 300T-polyesteriä\n• Hihan alaosat ja kyljet softshelliä: 95% polyesteriä, 5% elastaania\n• Välissä: Polyesterivanu\n• Vettähylkivä pinta\n• Kaksi vetoketjullista sivutaskua\n• Vetoketjullinen sisätasku\n• Joustavat hihansuut\n\nSaatavilla koot: S - 4XL\n",
+            "product_image": "https://easydeal-data.s3.eu-west-1.amazonaws.com/product_images/8ee148a1613cb6b67a70f1466110f7a43f6ed123",
+            "additional_image_1": "https://easydeal-data.s3.eu-west-1.amazonaws.com/product_images/02c564dc3010a104e38a082565a25e8aa6c4885c",
+            "additional_image_2": "https://easydeal-data.s3.eu-west-1.amazonaws.com/product_images/5f648560bde3f18a7461c7b204ee1278e03bca35",
+            "additional_image_3": "https://easydeal-data.s3.eu-west-1.amazonaws.com/product_images/d5fceb6532643d0d84ffe09c40c481ecdf59e15a",
+            "additional_image_4": "https://easydeal-data.s3.eu-west-1.amazonaws.com/product_images/d5fceb6532643d0d84ffe09c40c481ecdf59e15a",
+            "additional_image_5": "",
+            "additional_image_6": "",
+            "additional_image_7": "",
+            "additional_image_8": "",
+            "distributorID": 112
         },
         {
-            "ProductID": 228413,
-            "product_image": "https://easydeal-data.s3.eu-west-1.amazonaws.com/product_images/371b48f78b5d762b578d9046768b2254b86f3ff5"
-        },
-        {
-            "ProductID": 228414,
-            "product_image": "https://easydeal-data.s3.eu-west-1.amazonaws.com/product_images/371b48f78b5d762b578d9046768b2254b86f3ff5"
-        },
-        {
-            "ProductID": 228415,
-            "product_image": "https://easydeal-data.s3.eu-west-1.amazonaws.com/product_images/371b48f78b5d762b578d9046768b2254b86f3ff5"
+            "productID": 227675,
+            "title": "DePaul Design ThermoMate Light kynsikkäät M/L ",
+            "category_name": "Gloves",
+            "merchant_price": 10,
+            "distributor_quantity": 9,
+            "warehouse_quantity": 9,
+            "merchant_categoryID": "\"1162",
+            "long_description": "Laadukkaat kynsikkäät vapaa-aikaan  esim. talvikalastukseen aluskäsineeksi tai syyskäyttöön.\n",
+            "product_image": "https://easydeal-data.s3.eu-west-1.amazonaws.com/product_images/91794d3c11362cfc712131be183a40c28f4f3dd1",
+            "additional_image_1": "",
+            "additional_image_2": "",
+            "additional_image_3": "",
+            "additional_image_4": "",
+            "additional_image_5": "",
+            "additional_image_6": "",
+            "additional_image_7": "",
+            "additional_image_8": "",
+            "distributorID": 76
         }
     ]
 }
