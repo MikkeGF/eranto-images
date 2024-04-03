@@ -59,6 +59,33 @@
             "additional_image_7": "",
             "additional_image_8": "",
             "distributorID": 76
+        },
+        {
+            "productID": 226731,
+            "title": "Jaxon Black Stream BSX 100 avokela",
+            "category_name": "Fishing Reels",
+            "distributorID": 76,
+            "distributor_quantity": 8,
+            "warehouse_quantity": 8,
+            "merchant_price": 10
+        },
+        {
+            "productID": 226732,
+            "title": "Jaxon Black Stream BSX 200 avokela",
+            "category_name": "Fishing Reels",
+            "distributorID": 76,
+            "distributor_quantity": 3,
+            "warehouse_quantity": 3,
+            "merchant_price": 10
+        },
+        {
+            "productID": 226733,
+            "title": "Jaxon Black Stream BSX 300 avokela",
+            "category_name": "Fishing Reels",
+            "distributorID": 76,
+            "distributor_quantity": 5,
+            "warehouse_quantity": 5,
+            "merchant_price": 10
         }
     ]
 }
